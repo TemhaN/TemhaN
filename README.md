@@ -18,17 +18,19 @@
 
 ## 📊 Статистика GitHub
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; max-width: 100%;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; max-width: 100%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
 
 </div>
 
+| <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> |
+| ------------- | ------------- |
 
 ## 🛠 Навыки
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; gap: 20px; max-width: 100%; overflow-x: auto;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-around; gap: 20px; max-width: 100%; overflow-x: auto;">
 
 | **Front End** | **Back End** | **Tools & Deployment** | **Office** | **Design** | **3D** |
 |---------------|--------------|------------------------|------------|------------|--------|
