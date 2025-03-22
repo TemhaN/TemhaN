@@ -1,5 +1,10 @@
-<div style="max-width: 800px; border-radius: 25px; overflow: hidden;">
-  <img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
+<div align="center">
+  <svg width="800" height="auto" viewBox="0 0 800 450" style="max-width: 100%;">
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="800" height="450" rx="25" ry="25"/>
+    </clipPath>
+    <image xlink:href="https://i.imgur.com/3KDnp47.gif" width="800" height="450" clip-path="url(#rounded)" preserveAspectRatio="xMidYMid meet"/>
+  </svg>
 </div>
 
 <br>
