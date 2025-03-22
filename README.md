@@ -2,7 +2,7 @@
 
 <br>
 
-## Привет, я TemhaN! 👋
+#### Привет, я TemhaN! 👋
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -18,12 +18,12 @@
 
 <br>
 
-## 📊 Статистика GitHub
+#### 📊 Статистика GitHub
 
 | <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> |
 | ------------- | ------------- |
 
-## 🛠 Навыки
+#### 🛠 Навыки
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-around; gap: 20px; max-width: 100%; overflow-x: auto;">
 
