@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/3KDnp47.gif" width="600" height="250" style="max-width: 100%; object-fit: cover;" />
+  <img src="https://i.imgur.com/3KDnp47.gif" width="500" height="250" style="max-width: 100%;" />
 </div>
 
 <br>
