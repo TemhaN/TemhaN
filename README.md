@@ -1,13 +1,17 @@
+<div align="center">
+
 ## Привет, я TemhaN! 👋
 
-![Header](https://i.imgur.com/3KDnp47.gif)
+<img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
 
 <br><br>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
+<span style="color: #00CED1; font-style: italic;">_Люблю кодить, учиться и создавать что-то крутое._</span>
+</div>
 
-_Люблю кодить, учиться и создавать что-то крутое._
-
+</div>
 
 ## 📊 Статистика GitHub
 
