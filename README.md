@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px; border-radius: 25px;" />
+<div style="max-width: 800px; border-radius: 25px; overflow: hidden;">
+  <img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
+</div>
 
 <br>
 
