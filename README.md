@@ -40,8 +40,8 @@
 
 ## 📫 Связаться со мной
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px; max-width: 100%;">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" style="height: 25px;" /><a href="https://t.me/TemhaN_UwU"></a>
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height: 25px;" /><a href="mailto:temhan2005s@gmail.com"></a>
-  <img src="https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white" alt="VK" style="height: 25px;" /><a href="https://vk.com/temhan"></a>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px; max-width: 100%; width: fit-content; margin: 0 auto;">
+  <a href="https://t.me/TemhaN_UwU"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" style="height: 25px;" /></a>
+  <a href="mailto:temhan2005s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height: 25px;" /></a>
+  <a href="https://vk.com/temhan"><img src="https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white" alt="VK" style="height: 25px;" /></a>
 </div>
