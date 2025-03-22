@@ -1,8 +1,8 @@
-<img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
+<img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px; border-radius: 25px;" />
 
 <br>
 
-#### Привет, я TemhaN! 👋
+## Привет, я TemhaN! 👋
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
