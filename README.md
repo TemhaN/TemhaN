@@ -40,4 +40,10 @@
 
 ## 📫 Связаться со мной
 
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; max-width: 100%;">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TemhaN_UwU) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temhan2005s@gmail.com) [![VK](https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/temhan)</div>
+## 📫 Связаться со мной
+
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; max-width: 100%;">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" style="height: 25px;" /><a href="https://t.me/TemhaN_UwU"></a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height: 25px;" /><a href="mailto:temhan2005s@gmail.com"></a>
+  <img src="https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white" alt="VK" style="height: 25px;" /><a href="https://vk.com/temhan"></a>
+</div>
