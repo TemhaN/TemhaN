@@ -1,6 +1,8 @@
+## Привет, я TemhaN! 👋
+
 <img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
 
-## Привет, я TemhaN! 👋
+<br><br>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -10,17 +12,17 @@
 
 ## 📊 Статистика GitHub
 
-<div align="center" style="display: flex; justify-content: space-between; max-width: 100%; gap: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: center; max-width: 100%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="width: 50%; height: 200px; object-fit: cover;" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="width: 50%; height: 200px; object-fit: cover;" />
+<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
 
 </div>
 
 
 ## 🛠 Навыки
 
-<div align="center"><div align="center" style="display: flex; justify-content: space-around; gap: 20px; max-width: 100%; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; gap: 20px; max-width: 100%; flex-wrap: wrap;">
  
  | **Front End** | **Back End** | **Tools & Deployment** |
  |---------------|--------------|------------------------|
@@ -45,7 +47,7 @@
 
 ## 📫 Связаться со мной
 
-<div style="display: flex; justify-content: center; gap: 30px; max-width: 100%; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; max-width: 100%; flex-wrap: wrap;">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TemhaN_UwU)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temhan2005s@gmail.com)  
