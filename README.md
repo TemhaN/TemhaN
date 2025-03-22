@@ -1,16 +1,13 @@
-## Привет, я TemhaN! 👋
-
 <img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
 
-<br><br>
+<br>
+
+## Привет, я TemhaN! 👋
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<span style="color: #00CED1; font-style: italic;">_Люблю кодить, учиться и создавать что-то крутое._</span>
-
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <span style="color: #00CED1; font-style: italic;">_Люблю кодить, учиться и создавать что-то крутое_</span>
 </div>
-
-## 📫 Связаться со мной
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px; max-width: 100%; width: fit-content; margin: 0 auto;">
   <a href="https://t.me/TemhaN_UwU"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" style="height: 25px;" /></a>
