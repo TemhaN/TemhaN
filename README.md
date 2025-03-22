@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px; border-radius: 25px;" />
+<img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
 
 <br>
 
@@ -23,7 +23,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> |
 | ------------- | ------------- |
 
-#### 🛠 Навыки
+### 🛠 Навыки
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-around; gap: 20px; max-width: 100%; overflow-x: auto;">
 
