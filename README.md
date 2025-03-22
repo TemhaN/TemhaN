@@ -1,9 +1,6 @@
-
-## Привет, я TemhaN! 👋
-
 <img src="https://i.imgur.com/3KDnp47.gif" style="width: 100%; max-width: 800px;" />
 
-<br><br>
+## Привет, я TemhaN! 👋
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -13,10 +10,10 @@
 
 ## 📊 Статистика GitHub
 
-<div align="center" style="display: flex; justify-content: center; max-width: 100%;">
+<div align="center" style="display: flex; justify-content: space-between; max-width: 100%; gap: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
+<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="width: 50%; height: 200px; object-fit: cover;" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="width: 50%; height: 200px; object-fit: cover;" />
 
 </div>
 
