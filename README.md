@@ -1,4 +1,3 @@
-<div align="center">
 
 ## Привет, я TemhaN! 👋
 
@@ -9,16 +8,15 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <span style="color: #00CED1; font-style: italic;">_Люблю кодить, учиться и создавать что-то крутое._</span>
-</div>
 
 </div>
 
 ## 📊 Статистика GitHub
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; max-width: 100%;">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; max-width: 100%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%;" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
 
 </div>
 
