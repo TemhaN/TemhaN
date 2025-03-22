@@ -2,9 +2,21 @@
 
 ![Header](https://i.imgur.com/3KDnp47.gif)
 
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
 
 _Люблю кодить, учиться и создавать что-то крутое._
 
+
+## 📊 Статистика GitHub
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; max-width: 100%;">
+
+![TemhaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=radical)
+
+</div>
 
 ## 🛠 Навыки
 
@@ -31,19 +43,10 @@ _Люблю кодить, учиться и создавать что-то кр�
 
 </div>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
 
 
-## 📊 Статистика GitHub
 
-<div align="center">
 
-![TemhaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=radical)
-
-</div>
 
 
 ## 📫 Связаться со мной
