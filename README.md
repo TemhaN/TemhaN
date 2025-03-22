@@ -13,7 +13,7 @@
 
 ## 📊 Статистика GitHub
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; max-width: 100%;">
+<div align="center" style="display: flex; justify-content: center; max-width: 100%;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
