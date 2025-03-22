@@ -40,7 +40,7 @@
 
 ## 📫 Связаться со мной
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 30px; max-width: 100%; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 30px; max-width: 100%;">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TemhaN_UwU)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temhan2005s@gmail.com)  
