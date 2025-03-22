@@ -16,14 +16,9 @@
   <a href="https://vk.com/temhan"><img src="https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white" alt="VK" style="height: 25px;" /></a>
 </div>
 
+<br>
+
 ## 📊 Статистика GitHub
-
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; max-width: 100%;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" />
-
-</div>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=TemhaN&show_icons=true&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemhaN&layout=compact&theme=dracula" style="max-width: 45%; height: 200px; object-fit: cover;" /> |
 | ------------- | ------------- |
